@@ -5,4 +5,17 @@ This repository contains lab exercises for the Open Source Software Lab - 2025
 Name: Shubham Jaiswal
 Roll Number:231B328
 Email: 231b328@juetguna.in
+
+
 <Solution code to part F>
+
+# Add two numbers
+num1 = 5
+num2 = 7
+
+# Calculate the sum
+sum = num1 + num2
+
+# Print the result
+print("The sum is:", sum)
+
